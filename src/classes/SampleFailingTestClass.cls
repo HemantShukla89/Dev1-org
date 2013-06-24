@@ -10,7 +10,5 @@ public class SampleFailingTestClass {
 		System.assertEquals('867-5309', retAcc.phone); // Always fails.
 		
 		*/
-		
-		System.assertEquals(null, retAcc.phone); // after updating the Assert .
     }
 }
