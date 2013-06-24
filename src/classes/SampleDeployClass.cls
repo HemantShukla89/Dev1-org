@@ -1,5 +1,7 @@
 public class SampleDeployClass { 
-
+	
+	
+	/* Added a extra comment to check the Git-jenkins integration */
     public static testmethod void t1() {
         helloMethod(); //Extra comment has been added
 
